@@ -1,0 +1,161 @@
+{
+    "origin": [
+        "#surname#, #initials# ([currentYear:#year#]#currentYear#). #framing# #descriptor.capitalize# #phenomenon#. _Journal of Theoretical Psychology Advances_, #volume#(#issue#), #pages#. https://10.94134/jtpa.#currentYear#.#four_digit#",
+        "#surname#, #initials# & #surname#, #initials# ([currentYear:#year#]#currentYear#). #framing# #descriptor.capitalize# #phenomenon#. _Journal of Theoretical Psychology Advances_, #volume#(#issue#), #pages#. https://10.94134/jtpa.#currentYear#.#four_digit#"
+    ],
+    "initials": [
+        "A.B.", "C.D.", "E.F.", "G.H.", "I.J.", "K.L.", "M.N.", "O.P.", 
+        "Q.R.", "S.T.", "U.V.", "W.X.", "Y.Z.",
+        "B.C.", "D.E.", "F.G.", "H.I.", "J.K.", 
+        "L.M.", "N.O.", "P.Q.", "R.S.", "T.U.",
+        "V.W.", "X.Y.", "A.C.", "B.D.", "C.E.",
+        "D.F.", "E.G.", "F.H.", "G.I.", "H.J."
+    ],
+    "volume": [
+        "15", "16", "17", "18", "19", "20"
+    ],
+    "issue": [
+        "1", "2", "3", "4"
+    ],
+    "pages": [
+        "1-24", "25-48", "49-72", "73-96", "97-120", 
+        "121-144", "145-168", "169-192", "193-216", 
+        "217-240", "241-264", "265-288", "283-301", 
+        "302-325", "326-349", "350-373", "374-397"
+    ],
+    "framing": [
+        "An Examination of",
+        "A Framework for Understanding",
+        "In the Context of",
+        "An Investigation into",
+        "A Study of",
+        "An Analysis of",
+        "A Model for Understanding",
+        "An Exploration of",
+        "A Taxonomy of",
+        "Theoretical Insights into",
+        "A Systematic Analysis of",
+        "An Assessment of",
+        "A Framework for",
+        "The Role of",
+        "A Deep Dive into",
+        "A Conceptualization of",
+        "A Reexamination of",
+        "Understanding",
+        "A Reinterpretation of",
+        "A Review of",
+        "A New Paradigm for",
+        "The Impact of",
+        "A Computational Approach to",
+        "An Analysis of",
+        "A Redefinition of",
+        "Decoding",
+        "New Approaches to",
+        "Mechanisms of",
+        "A Multidimensional Study of",
+        "Models of",
+        "Reconstructing",
+        "Mapping",
+        "A Reconceptualization of",
+        "New Dimensions in",
+        "The Emergence of",
+        "Dynamics of",
+        "An Integrated Approach to",
+        "Understanding",
+        "The Influence of",
+        "A Psychological Inquiry into",
+        "A Unified Theory of",
+        "Interactions in",
+        "Relationships within",
+        "An Interdisciplinary Perspective on",
+        "Origins of",
+        "Reconstructing",
+        "New Understandings of",
+        "Rethinking",
+        "An Evaluation of",
+        "Implications of",
+        "A Comparative Analysis of",
+        "The Evolution of",
+        "A Cross-Cultural Study of",
+        "Foundations of",
+        "A Meta-Analysis of",
+        "The Development of",
+        "A Phenomenological Study of",
+        "A Quantitative Assessment of",
+        "Emerging Patterns in",
+        "A Longitudinal Investigation of"
+    ],
+    "descriptor": [
+        "Aberrant", "Recursive", "Subsynaptic", "Autopoietic", "Quasi-Sensory", "Synchronistic",
+        "Transcendent", "Neuroplastic", "Somatocentric", "Multispectral", "Homeodynamic",
+        "Tachyonic", "Fractalized", "Holographic", "Supra-Ordinary", "Anisotropic", 
+        "Entropic", "Paradoxical", "Quantum", "Psychosomatic", "Liminal", "Epigenetic",
+        "Chronometric", "Non-Linear", "Biophotonic", "Hyperdimensional", "Cryptographic",
+        "Phenomenological", "Dysregulatory", "Intersubjective", "Non-Consensual", 
+        "Hyperadaptive", "Isochronal", "Retrocausal", "Chaotic", "Oscillatory", 
+        "Somatoform", "Ethereal", "Affective", "Neuromodulatory", "Subconscious", 
+        "Psychoenergetic", "Supra-Liminal", "Archetypal", "Extrapolated", 
+        "Neurodynamic", "Psionic", "Dimensional", "Resonant", "Emergent", 
+        "Dissociative", "Noetic", "Psychophysical", "Synthesized",     "Metamorphic", 
+        "Biosemiotic", "Heterodynamic", "Metacognitive", "Transpersonal", "Morphogenetic"
+    ],
+    "phenomenon": [
+        "Fractals", "Neurodynamic Interference", "Temporal Constructs", "Empathic Resonance", 
+        "Cognitive Feedback Loops", "Psi Phenomena", "Quantum Mnemonics", "Memory Consolidation", 
+        "Consciousness Fields", "Altered States", "Autonomic Regulation", "Oneiric Cognition", 
+        "Psychophysical Interactions", "Psychoenergetic Systems", "Neural Oscillations", 
+        "Dimensional Collapse", "Synaptic Plasticity", "Behavioral Chaos", 
+        "Neurospiritual Coherence", "Emotional Entropy", "Collective Unconscious", 
+        "Psychosomatic Alignment", "Linguistic Constructs", "Psychedelic Cognition", 
+        "Metacognitive Models", "Neuroplastic Transformation", "Dimensional Mapping", 
+        "Tachyonic Waves", "Subjective Reality", "Perceptual Alteration", 
+        "Psychophysiological Synergy", "Self-Referential Thought", "Autonomous Thought Forms", 
+        "Cross-Dimensional Feedback", "Psychoanalytic Symbols", "Cognitive Drift", 
+        "Behavioral Patterns", "Memory Distortion", "Nonlinear Thought Structures", 
+        "Hypercognitive Feedback", "Quantum Perception", "Time Dilation", 
+        "Neural Activation", "Psychosocial Structures", "Neurophenomenology", 
+        "Cognitive Synergy", "Somatic Field Dynamics", "Psychedelic Experiences", 
+        "Perceptual Synthesis", "Empathy Networks", "Neural Realignment"
+    ],
+    "application": [
+        "Altered States", "Quantum Mnemonics", "Psychedelic Cognition", "Lucid Dreaming", 
+        "Oneiric Exploration", "Psychic Phenomena", "Neural Resonance", "Subconscious Projections", 
+        "Transliminal Awareness", "Consciousness Expansion", "Mystical Experiences", 
+        "Time Perception", "Collective Consciousness", "Neurophilosophical Inquiry", 
+        "Transpersonal Psychology", "Metacognitive States", "Psychotropic Exploration", 
+        "Neural Divergence", "Cognitive Dissonance", "Paranormal Perception", 
+        "Hyperconscious States", "Biocognitive Interactions", "Non-Normative Psychology", 
+        "Multidimensional Awareness", "Dimensional Exploration", "Cross-Dimensional Interfaces", 
+        "Hyperdimensional Awareness", "Tachyonic Communication", "Psychosomatic Unification", 
+        "Astral Projection", "Fractal Perception", "Psychoenergetic Fields", "Dreamscapes", 
+        "Dissociative Experiences", "Cognitive Uncertainty", "Psychic Entanglement", 
+        "Reality Perception", "Neuroplastic Rewiring", "Temporal Dissonance", 
+        "Psychoacoustic Fields", "Paradoxical Experiences", "Quantum Perception", 
+        "Psychoelectrical States", "Perceptual Modulation", "Multisensory Integration", 
+        "Nonlinear Time", "Lucid Awareness", "Metaphysical Thought", 
+        "Consciousness Mapping", "Extrapersonal Communication", "Extradimensional Exploration"
+    ],
+    "surname": [
+        "Smith", "Johnson", "Williams", "Garcia", "Davis", "Rodriguez", "Martinez", 
+        "Lopez", "Gonzalez", "Wilson", "Anderson", "Thomas", "Taylor", "Hernandez", 
+        "Moore", "Jackson", "Martin", "Lee", "Perez", "White", "Harris", "Sanchez", 
+        "Clark", "Ramirez", "Lewis", "Roberts", "Walker", "Young", "King", "Scott", 
+        "Green", "Adams", "Nelson", "Hill", "Carter", "Baker", "Mitchell", "Evans", 
+        "Turner", "Torres", "Collins", "Murphy", "Cook", "Rogers", "Reyes", 
+        "Wood", "Bell", "Wright", "Garrett", "Graham", "Rivera", "Cooper", 
+        "Peterson", "Morgan", "Phillips", "Kelly", "Howard", "Ward", "Cox", 
+        "Diaz", "Richardson"
+    ],
+    "year": [
+        "2024", "2023", "2022", "2021", "2020"
+    ],
+    "first": [ 
+        "1", "2", "3", "4", "5", "6", "7", "8", "9" 
+    ],
+    "digit": [
+        "0", "1", "2", "3", "4", "5", "6", "7", "8", "9"
+    ],
+    "four_digit": [
+        "#first##digit##digit##digit#"
+    ]
+}
