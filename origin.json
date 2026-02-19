@@ -1,8 +1,8 @@
 {
-    "origin": [
-        "#surname#, #initials# ([currentYear:#year#]#currentYear#). #framing# #descriptor.capitalize# #phenomenon#. _Journal of Theoretical Psychology Advances_, #volume#(#issue#), #pages#. https://10.94134/jtpa.#currentYear#.#four_digit#",
-        "#surname#, #initials# & #surname#, #initials# ([currentYear:#year#]#currentYear#). #framing# #descriptor.capitalize# #phenomenon#. _Journal of Theoretical Psychology Advances_, #volume#(#issue#), #pages#. DOI://10.94134/jtpa.#currentYear#.#four_digit#"
-    ],
+"origin": [
+    "#surname#, #initials# ([currentYear:#year#]#currentYear#). #framing# #descriptor.capitalize# #phenomenon#. _Journal of Theoretical Psychology Advances_, #volume#(#issue#), #pages#. https://doi.org/10.94134/jtpa.#currentYear#.#four_digit#",
+    "#surname#, #initials# & #surname#, #initials# ([currentYear:#year#]#currentYear#). #framing# #descriptor.capitalize# #phenomenon#. _Journal of Theoretical Psychology Advances_, #volume#(#issue#), #pages#. doi/10.94134/jtpa.#currentYear#.#four_digit#"
+],
     "initials": [
         "A.B.", "C.D.", "E.F.", "G.H.", "I.J.", "K.L.", "M.N.", "O.P.", 
         "Q.R.", "S.T.", "U.V.", "W.X.", "Y.Z.",
