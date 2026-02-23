@@ -11,13 +11,10 @@
     "a1": [
         "#surname#, #initials#"
     ],
-    "initials": [
-        "A.B.", "C.D.", "E.F.", "G.H.", "I.J.", "K.L.", "M.N.", "O.P.", 
-        "Q.R.", "S.T.", "U.V.", "W.X.", "Y.Z.",
-        "B.C.", "D.E.", "F.G.", "H.I.", "J.K.", 
-        "L.M.", "N.O.", "P.Q.", "R.S.", "T.U.",
-        "V.W.", "X.Y.", "A.C.", "B.D.", "C.E.",
-        "D.F.", "E.G.", "F.H.", "G.I.", "H.J."
+    "initials": ["#letter#.#letter#."],
+    "letter": [
+        "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M",
+        "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"
     ],
     "volume": [
         "15", "16", "17", "18", "19", "20"
