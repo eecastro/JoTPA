@@ -1,6 +1,13 @@
 {
     "origin": [
-"#authors#, ([currentYear:#year#]#currentYear#). #framing# #descriptor.capitalize# #phenomenon#. _Journal of Theoretical Psychology Advances_, #volume#(#issue#), #pages#. doi/10.94134/jtpa.#currentYear#.#four_digit#"
+"#authors#, ([currentYear:#year#]#currentYear#). #titleVariant#. _Journal of Theoretical Psychology Advances_, #volume#(#issue#), #pages#. doi/10.94134/jtpa.#currentYear#.#four_digit#"
+    ],
+    "titleVariant": [
+        "#framing# #descriptor.capitalize# #phenomenon#",
+        "#framing# #descriptor.capitalize# #phenomenon#: Implications for #application#",
+        "#descriptor.capitalize# #phenomenon# in #application#",
+        "#framing# #descriptor.capitalize# #phenomenon# and #descriptor.capitalize# #phenomenon#",
+        "From #application# to #application#: #framing# #descriptor.capitalize# #phenomenon#"
     ],
     "authors": [
         "#a1#", "#a1#", "#a1#",          
