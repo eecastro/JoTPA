@@ -1,8 +1,16 @@
 {
-"origin": [
-    "#surname#, #initials# ([currentYear:#year#]#currentYear#). #framing# #descriptor.capitalize# #phenomenon#. _Journal of Theoretical Psychology Advances_, #volume#(#issue#), #pages#. https://doi.org/10.94134/jtpa.#currentYear#.#four_digit#",
-    "#surname#, #initials# & #surname#, #initials# ([currentYear:#year#]#currentYear#). #framing# #descriptor.capitalize# #phenomenon#. _Journal of Theoretical Psychology Advances_, #volume#(#issue#), #pages#. doi/10.94134/jtpa.#currentYear#.#four_digit#"
-],
+    "origin": [
+"#authors#, ([currentYear:#year#]#currentYear#). #framing# #descriptor.capitalize# #phenomenon#. _Journal of Theoretical Psychology Advances_, #volume#(#issue#), #pages#. doi/10.94134/jtpa.#currentYear#.#four_digit#"
+    ],
+    "authors": [
+        "#a1#", "#a1#", "#a1#",          
+        "#a1# & #a1#", "#a1# & #a1#",    
+        "#a1#, #a1# & #a1#", "#a1#, #a1# & #a1#", 
+        "#a1#, #a1#, #a1# & #a1#"
+    ],
+    "a1": [
+        "#surname#, #initials#"
+    ],
     "initials": [
         "A.B.", "C.D.", "E.F.", "G.H.", "I.J.", "K.L.", "M.N.", "O.P.", 
         "Q.R.", "S.T.", "U.V.", "W.X.", "Y.Z.",
@@ -144,8 +152,7 @@
         "Turner", "Torres", "Collins", "Murphy", "Cook", "Rogers", "Reyes", 
         "Wood", "Bell", "Wright", "Garrett", "Graham", "Rivera", "Cooper", 
         "Peterson", "Morgan", "Phillips", "Kelly", "Howard", "Ward", "Cox", 
-        "Diaz", "Richardson", "Foster", "Bennett", "Hayes", "Bryant", "James", 
-        "Flores", "Nguyen", "Patel", "Reed", "Price"
+        "Diaz", "Richardson"
     ],
     "year": [
         "2024", "2023", "2022", "2021", "2020"
