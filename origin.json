@@ -1,27 +1,16 @@
 {
-    "origin": [
-"#authors#, ([currentYear:#year#]#currentYear#). #titleVariant#. _Journal of Theoretical Psychology Advances_, #volume#(#issue#), #pages#. doi/10.94134/jtpa.#currentYear#.#four_digit#"
-    ],
-    "titleVariant": [
-        "#framing# #descriptor.capitalize# #phenomenon#",
-        "#framing# #descriptor.capitalize# #phenomenon#: Implications for #application#",
-        "#descriptor.capitalize# #phenomenon# in #application#",
-        "#framing# #descriptor.capitalize# #phenomenon# and #descriptor.capitalize# #phenomenon#",
-        "From #application# to #application#: #framing# #descriptor.capitalize# #phenomenon#"
-    ],
-    "authors": [
-        "#a1#", "#a1#", "#a1#",          
-        "#a1# & #a1#", "#a1# & #a1#",    
-        "#a1#, #a1# & #a1#", "#a1#, #a1# & #a1#", 
-        "#a1#, #a1#, #a1# & #a1#"
-    ],
-    "a1": [
-        "#surname#, #initials#"
-    ],
-    "initials": ["#letter#.#letter#."],
-    "letter": [
-        "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M",
-        "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"
+"origin": [
+    "#surname#, #initials# ([currentYear:#year#]#currentYear#). #framing# #descriptor.capitalize# #phenomenon#. _Journal of Theoretical Psychology Advances_, #volume#(#issue#), #pages#. doi/10.94134/jotpa.#currentYear#.#four_digit#",
+        "#surname#, #initials# & #surname#, #initials# ([currentYear:#year#]#currentYear#). #framing# #descriptor.capitalize# #phenomenon#. _Journal of Theoretical Psychology Advances_, #volume#(#issue#), #pages#. doi/10.94134/jotpa.#currentYear#.#four_digit#",
+    "#surname#, #initials#, #surname#, #initials#, and #surname#, #initials# ([currentYear:#year#]#currentYear#). #framing# #descriptor.capitalize# #phenomenon#. _Journal of Theoretical Psychology Advances_, #volume#(#issue#), #pages#. doi/10.94134/jotpa.#currentYear#.#four_digit#"
+],
+    "initials": [
+        "A.B.", "C.D.", "E.F.", "G.H.", "I.J.", "K.L.", "M.N.", "O.P.", 
+        "Q.R.", "S.T.", "U.V.", "W.X.", "Y.Z.",
+        "B.C.", "D.E.", "F.G.", "H.I.", "J.K.", 
+        "L.M.", "N.O.", "P.Q.", "R.S.", "T.U.",
+        "V.W.", "X.Y.", "A.C.", "B.D.", "C.E.",
+        "D.F.", "E.G.", "F.H.", "G.I.", "H.J."
     ],
     "volume": [
         "15", "16", "17", "18", "19", "20"
@@ -50,7 +39,12 @@
         "An Assessment of",
         "A Framework for",
         "The Role of",
-        "A Deep Dive into",
+        "A Critical Appraisal of",
+        "An Empirical Account of",
+        "A Speculative Framework for",
+        "A Preliminary Inquiry into",
+        "A Formal Treatment of",
+        "An Epistemic Survey of",
         "A Conceptualization of",
         "A Reexamination of",
         "Understanding",
@@ -95,17 +89,7 @@
         "A Phenomenological Study of",
         "A Quantitative Assessment of",
         "Emerging Patterns in",
-        "A Longitudinal Investigation of",
-        "A Critical Appraisal of",
-        "Toward a Theory of",
-        "Deconstructing",
-        "A Preliminary Investigation of",
-        "The Neuropsychological Basis of",
-        "Bridging Perspectives on",
-        "A Structural Account of",
-        "Revisiting",
-        "The Paradox of",
-        "A Biopsychosocial Model of"
+        "A Longitudinal Investigation of"
     ],
     "descriptor": [
         "Aberrant", "Recursive", "Subsynaptic", "Autopoietic", "Quasi-Sensory", "Synchronistic",
@@ -119,9 +103,7 @@
         "Psychoenergetic", "Supra-Liminal", "Archetypal", "Extrapolated", 
         "Neurodynamic", "Psionic", "Dimensional", "Resonant", "Emergent", 
         "Dissociative", "Noetic", "Psychophysical", "Synthesized",     "Metamorphic", 
-        "Biosemiotic", "Heterodynamic", "Metacognitive", "Transpersonal", "Morphogenetic",
-        "Stochastic", "Proprioceptive", "Supraliminal", "Endogenous", "Thermodynamic",
-        "Polymorphic", "Neurolinguistic", "Topological", "Infrasensory", "Paracausal"
+        "Biosemiotic", "Heterodynamic", "Metacognitive", "Transpersonal", "Morphogenetic"
     ],
     "phenomenon": [
         "Fractals", "Neurodynamic Interference", "Temporal Constructs", "Empathic Resonance", 
@@ -139,11 +121,7 @@
         "Hypercognitive Feedback", "Quantum Perception", "Time Dilation", 
         "Neural Activation", "Psychosocial Structures", "Neurophenomenology", 
         "Cognitive Synergy", "Somatic Field Dynamics", "Psychedelic Experiences", 
-        "Perceptual Synthesis", "Empathy Networks", "Neural Realignment",
-        "Affective Resonance Cascades", "Proprioceptive Drift", "Semantic Saturation",
-        "Endogenous Signal Decay", "Recursive Self-Modeling", "Chronoperceptual Distortion",
-        "Limbic Entrainment", "Paracognitive Interference", "Somatosensory Feedback Loops",
-        "Topological Memory Structures"
+        "Perceptual Synthesis", "Empathy Networks", "Neural Realignment"
     ],
     "application": [
         "Altered States", "Quantum Mnemonics", "Psychedelic Cognition", "Lucid Dreaming", 
@@ -161,11 +139,7 @@
         "Psychoacoustic Fields", "Paradoxical Experiences", "Quantum Perception", 
         "Psychoelectrical States", "Perceptual Modulation", "Multisensory Integration", 
         "Nonlinear Time", "Lucid Awareness", "Metaphysical Thought", 
-        "Consciousness Mapping", "Extrapersonal Communication", "Extradimensional Exploration",
-        "Somatic Resonance Therapy", "Precognitive Modeling", "Endogenous Trance States",
-        "Neuroaesthetic Experience", "Subliminal Integration", "Chrononautic Awareness",
-        "Proprioceptive Recalibration", "Liminal State Navigation", "Paraconsciousness Studies",
-        "Holotropic Breathwork"
+        "Consciousness Mapping", "Extrapersonal Communication", "Extradimensional Exploration"
     ],
     "surname": [
         "Smith", "Johnson", "Williams", "Garcia", "Davis", "Rodriguez", "Martinez", 
